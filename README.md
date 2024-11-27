@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DhanaLaxmi
+- 👀 I’m interested in Full Stack Web Developer Roles
+- 🌱 I’m currently learning Full Stack Developer MERN with NxtWave
+- 💞️ I’m looking to collaborate on exciting projects, gain hands-on experience, and contribute to the development of web applications.
+- 📫 How to reach me dhanalaxmi9390@gmail.com or https://www.linkedin.com/in/dhanalaxmi-kondra/
